@@ -1,0 +1,56 @@
+{
+  "users": [],
+  "movies": [
+    { "id": 1,
+      "Title": "The Shawshank Redemption",
+      "ImageUrl": "https://example.com/images/shawshank.jpg",
+      "Year": 1994
+    },
+    { "id": 2,
+      "Title": "The Godfather",
+      "ImageUrl": "https://example.com/images/godfather.jpg",
+      "Year": 1972
+    },
+    { "id": 3,
+      "Title": "The Dark Knight",
+      "ImageUrl": "https://example.com/images/dark_knight.jpg",
+      "Year": 2008
+    },
+    { "id": 4,
+      "Title": "Pulp Fiction",
+      "ImageUrl": "https://example.com/images/pulp_fiction.jpg",
+      "Year": 1994
+    },
+    { "id": 5,
+      "Title": "The Lord of the Rings: The Return of the King",
+      "ImageUrl": "https://example.com/images/lotr_return_of_the_king.jpg",
+      "Year": 2003
+    },
+    { "id": 6,
+      "Title": "Forrest Gump",
+      "ImageUrl": "https://example.com/images/forrest_gump.jpg",
+      "Year": 1994
+    },
+    { "id": 7,
+      "Title": "Inception",
+      "ImageUrl": "https://example.com/images/inception.jpg",
+      "Year": 2010
+    },
+    { "id": 8,
+      "Title": "Fight Club",
+      "ImageUrl": "https://example.com/images/fight_club.jpg",
+      "Year": 1999
+    },
+    { "id": 9,
+      "Title": "The Matrix",
+      "ImageUrl": "https://example.com/images/matrix.jpg",
+      "Year": 1999
+    },
+    { "id": 10,
+      "Title": "Goodfellas",
+      "ImageUrl": "https://example.com/images/goodfellas.jpg",
+      "Year": 1990
+    }
+  ],
+  "favorites": []
+}
